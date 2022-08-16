@@ -1,0 +1,42 @@
+header {
+
+background-color: black;
+color: white;
+text-align:center
+}
+
+body {
+    background-color: aqua;
+    position: sticky;
+}
+
+.hello {
+    text-align: left;
+    
+}
+
+.parrafo {
+    text-align: left;
+    margin-right: 23cm;
+    font-size: xx-large;
+    background-color: blueviolet;
+    margin-left:1cm ;
+}
+
+.imagen{
+
+    float: right;
+
+}
+footer {
+    background-color: black;
+        position:sticky;
+        bottom:0;
+        clear:both;
+        width:100%;
+        height:100px;
+        color: white;
+        text-align: center;
+        font-size: x-large;
+    }
+    
